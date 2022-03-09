@@ -1,0 +1,24 @@
+#Games{
+    background-color: aqua;
+
+}
+#Apps{
+    background-color: coral;
+}
+#ChatBot{
+    background-color: darkmagenta;
+}
+body{
+    text-align: center;
+}
+.line{
+    margin: 8px auto;
+    background-color: black;
+    height: 2px;
+    width: 70px;
+}
+#Games img{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+}
